@@ -1,4 +1,4 @@
-# WECO Electrical Engineer System
+# Electrical Engineer System
 
 ---
 
