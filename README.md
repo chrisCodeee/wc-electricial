@@ -2,7 +2,7 @@
 
 ---
 
-## **⚡ Overview**
+## ** Overview**
 
 The ** Electrical Engineer System** is a **Python-based automation tool** designed to streamline **electrical engineering workflows** (February 2022 – July 2023)**. This system supports the **design of low and medium voltage power distribution systems**, **load studies**, **short circuit analysis**, **protection coordination**, and **Smart Grid Modernization Projects**. It enables engineers to achieve **15% energy efficiency improvements**, enhance **system stability**, and ensure **reliable fault response** through advanced analysis and optimization.
 
